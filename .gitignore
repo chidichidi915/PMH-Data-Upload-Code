@@ -1,0 +1,10 @@
+# Runtime / local env
+data/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.streamlit/secrets.toml
+*.egg-info/
+.ipynb_checkpoints/
